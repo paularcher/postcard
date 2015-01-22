@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		66742B751A71882700B765BC /* mel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 66742B741A71882700B765BC /* mel.jpg */; };
+		66742B771A71882E00B765BC /* paul.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 66742B761A71882E00B765BC /* paul.JPG */; };
 		66CB03731A701F5B007C3E96 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66CB03721A701F5B007C3E96 /* AppDelegate.swift */; };
 		66CB03751A701F5B007C3E96 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66CB03741A701F5B007C3E96 /* ViewController.swift */; };
 		66CB03781A701F5B007C3E96 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66CB03761A701F5B007C3E96 /* Main.storyboard */; };
@@ -28,6 +30,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		66742B741A71882700B765BC /* mel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mel.jpg; sourceTree = "<group>"; };
+		66742B761A71882E00B765BC /* paul.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = paul.JPG; sourceTree = "<group>"; };
 		66CB036D1A701F5B007C3E96 /* Postcard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Postcard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		66CB03711A701F5B007C3E96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		66CB03721A701F5B007C3E96 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -94,6 +98,8 @@
 		66CB03701A701F5B007C3E96 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				66742B761A71882E00B765BC /* paul.JPG */,
+				66742B741A71882700B765BC /* mel.jpg */,
 				66CB03941A7027E2007C3E96 /* AlbertEinsteinStamp.jpg */,
 				66CB03921A7023A3007C3E96 /* SagradaFamilia.jpeg */,
 				66CB03711A701F5B007C3E96 /* Info.plist */,
@@ -200,6 +206,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				66742B771A71882E00B765BC /* paul.JPG in Resources */,
+				66742B751A71882700B765BC /* mel.jpg in Resources */,
 				66CB03781A701F5B007C3E96 /* Main.storyboard in Resources */,
 				66CB03931A7023A3007C3E96 /* SagradaFamilia.jpeg in Resources */,
 				66CB03951A7027E2007C3E96 /* AlbertEinsteinStamp.jpg in Resources */,

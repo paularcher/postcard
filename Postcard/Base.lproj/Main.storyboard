@@ -16,7 +16,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="SagradaFamilia.jpeg" translatesAutoresizingMaskIntoConstraints="NO" id="CST-Ff-xrs">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="mel.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="CST-Ff-xrs">
                                 <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="0.0" y="64" width="400" height="600"/>
@@ -68,10 +68,10 @@
                                     <rect key="frame" x="16" y="72" width="334" height="154"/>
                                 </variation>
                             </label>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="AlbertEinsteinStamp.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="qMg-N9-f4G">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="paul.JPG" translatesAutoresizingMaskIntoConstraints="NO" id="qMg-N9-f4G">
                                 <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="250" y="234" width="100" height="100"/>
+                                    <rect key="frame" x="250" y="187" width="100" height="147"/>
                                 </variation>
                             </imageView>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Enter Name" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="6cv-NW-NWv">
@@ -156,7 +156,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="AlbertEinsteinStamp.jpg" width="1917" height="1344"/>
-        <image name="SagradaFamilia.jpeg" width="205" height="245"/>
+        <image name="mel.jpg" width="960" height="1280"/>
+        <image name="paul.JPG" width="1462" height="2048"/>
     </resources>
 </document>
